@@ -142,3 +142,7 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined-main.zip"
 hash = "cadfb9e1a7901b47b1f6eedb2d814c15aae5b0a29558504fd49acafe5a14875c"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined-main.zip.txt"
+hash = "d0f08086b4431192e1cc78a3402ee11f5318c98ada7697a4cdd5533772d63252"
