@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "eb10d060c9e959390cbbbe8d956a7f93b32890fd48f6d63bf74604f99df6f2a4"
+
+[[files]]
 file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
 hash = "4c46c2046e78f84cf2b095284103576f82e0066c2e6b873174e3fde6d35a0a0a"
 
